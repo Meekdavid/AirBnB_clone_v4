@@ -1,4 +1,4 @@
-Efficiently every
+Efficiently ever
 #!/usr/bin/env bash
 # Script using bash to setup webservers for deployment of simple HTML
 # content
